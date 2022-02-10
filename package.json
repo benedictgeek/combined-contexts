@@ -1,7 +1,6 @@
 {
   "name": "combined-contexts",
   "version": "0.1.0",
-  "private": true,
   "main": "dist/index.js",
   "description": "A utility method for combining multiple contexts for state management in react",
   "author": "Olushola Benedict",
